@@ -14,4 +14,4 @@ Project Portfolio
 - Third item
 `code`
 [Google Search](https://www.google.com)
-![alt text](Power Bi Report Dashboard.jpg)
+![alt text](https://github.com/abhishekmishra8/Power-BI-Project-Bank-Domain/blob/main/Power%20Bi%20Report%20Dashboard.JPG)
