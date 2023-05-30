@@ -1,12 +1,11 @@
-# Power-BI-Project-Bank-Domain
-## Data Analytics Project in Microsoft Power BI Using Excel and CSV DataSet
+# Data Analytics Project in Microsoft Power BI Using Excel and CSV DataSet
 
 [Follow me on LinkedIn](https://www.linkedin.com/in/abhishekmishra3/)
 
-[Github Page Link] : https://abhishekmishra8.github.io/Power-BI-Project-Bank-Domain/
+[Github Page Link](https://abhishekmishra8.github.io/Power-BI-Project-Bank-Domain/)
 
 
-**Some Key Steps:- **
+**Some Key Steps:-**  
 1. Loaded Files from Excel Worksheet, Excel CSV  
 Distinct v/s Unique  
 Data Set : 1 2 3 3 4 4  
