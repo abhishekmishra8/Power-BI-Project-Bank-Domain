@@ -17,10 +17,9 @@ Unique Value : 2
 - M Code : Whatever the changes made on data, those action are done by M code Language in Backend.
 
 3. Create MasterDate Table with Date Format
-- DateMaster = CALENDAR(FIRSTDATE(Bank_Churn[Bank DOJ]), LASTDATE(Bank_Churn[Bank DOJ]))
-Mark As Date Table = Date
-- Year = YEAR(DateMaster[Date])
-- Month = FORMAT(DateMaster[Date], "MMM")
+- `DateMaster = CALENDAR(FIRSTDATE(Bank_Churn[Bank DOJ]), LASTDATE(Bank_Churn[Bank DOJ]))`
+- `Year = YEAR(DateMaster[Date])`
+- `Month = FORMAT(DateMaster[Date], "MMM")`
 
 4. Data Modeling in Power Pivot : Dealing with the cardinality between the tables.  
 Creating Relationship between the tables. Fact Tables & Dimension Tables.
