@@ -67,7 +67,14 @@ Thanks to KSR Datavizon.
 [Reference Youtube Video Click Here](https://www.youtube.com/watch?v=aXNhtcQ4nEU)
 
 
-![](https://github.com/abhishekmishra8/Power-BI-Project-Bank-Domain/blob/main/Images%20Folder/Power%20Bi%20Report%20Dashboard.JPG)
+![Dashboard Image](https://github.com/abhishekmishra8/Power-BI-Project-Bank-Domain/blob/main/Images%20Folder/Power%20Bi%20Report%20Dashboard.JPG)
 
 
-![alt text](Images Folder/Image.JPG)
+![Image1](Images Folder/Image.JPG)
+![Image2](./Images Folder/Image.JPG)
+![Image3](Images Folder/Data Model in Power Pivot.JPG)
+![Image4](./Images Folder/Data Model in Power Pivot.JPG)
+![Image5](https://github.com/abhishekmishra8/Power-BI-Project-Bank-Domain/blob/main/Images%20Folder/Data%20Model%20in%20Power%20Pivot.JPG)
+![Image6](Images Folder/https://github.com/abhishekmishra8/Power-BI-Project-Bank-Domain/blob/main/Images%20Folder/Data%20Model%20in%20Power%20Pivot.JPG)
+![Image7](./Images Folder/https://github.com/abhishekmishra8/Power-BI-Project-Bank-Domain/blob/main/Images%20Folder/Data%20Model%20in%20Power%20Pivot.JPG)
+
