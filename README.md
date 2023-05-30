@@ -70,4 +70,4 @@ Thanks to KSR Datavizon.
 ![](https://github.com/abhishekmishra8/Power-BI-Project-Bank-Domain/blob/main/Images%20Folder/Power%20Bi%20Report%20Dashboard.JPG)
 
 
-![alt text](Images Folder/Data Model in Power Pivot.JPG)
+![alt text](./Images Folder/Image.JPG)
