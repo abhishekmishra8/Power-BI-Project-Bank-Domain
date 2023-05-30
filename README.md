@@ -5,7 +5,7 @@
 [Github Page Link](https://abhishekmishra8.github.io/Power-BI-Project-Bank-Domain/)
 
 
-**Some Key Steps:-**  
+**Some Key Steps & Learning:-**  
 1. Loaded Files from Excel Worksheet, Excel CSV  
 Distinct v/s Unique  
 Data Set : 1 2 3 3 4 4  
@@ -22,7 +22,8 @@ Mark As Date Table = Date
 - Year = YEAR(DateMaster[Date])
 - Month = FORMAT(DateMaster[Date], "MMM")
 
-4. Data Modeling in Power Pivot : Dealing with the cardinality between the tables. Creating Relationship between the tables. Fact Tables & Dimension Tables.
+4. Data Modeling in Power Pivot : Dealing with the cardinality between the tables.  
+Creating Relationship between the tables. Fact Tables & Dimension Tables.
 - One to One Relationship & One to Many Relationship
 - Star Schema : All the Dimension tables are connected to the main Fact table.
 - Snowflake schema : Dimension tables may or maybe indirectly connected to the main Fact table through another Dimension table.
@@ -64,17 +65,10 @@ Note : Drill Up, Drill Down Concept.
 
 Thanks to KSR Datavizon.
 
-[Reference Youtube Video Click Here](https://www.youtube.com/watch?v=aXNhtcQ4nEU)
+[Reference Youtube Video Click Here](https://www.youtube.com/watch?v=aXNhtcQ4nEU)  
 
 
-![Dashboard Image](https://github.com/abhishekmishra8/Power-BI-Project-Bank-Domain/blob/main/Images%20Folder/Power%20Bi%20Report%20Dashboard.JPG)
+![Dashboard Image](Images Folder/Power Bi Report Dashboard.JPG)  
 
-
-![Image1](Images Folder/Image.JPG)
-![Image2](./Images Folder/Image.JPG)
-![Image3](Images Folder/Data Model in Power Pivot.JPG)
-![Image4](./Images Folder/Data Model in Power Pivot.JPG)
-![Image5](https://github.com/abhishekmishra8/Power-BI-Project-Bank-Domain/blob/main/Images%20Folder/Data%20Model%20in%20Power%20Pivot.JPG)
-![Image6](Images Folder/https://github.com/abhishekmishra8/Power-BI-Project-Bank-Domain/blob/main/Images%20Folder/Data%20Model%20in%20Power%20Pivot.JPG)
-![Image7](./Images Folder/https://github.com/abhishekmishra8/Power-BI-Project-Bank-Domain/blob/main/Images%20Folder/Data%20Model%20in%20Power%20Pivot.JPG)
+![Data Model Image](Images Folder/Data Model in Power Pivot.JPG)
 
