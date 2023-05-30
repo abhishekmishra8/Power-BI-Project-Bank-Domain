@@ -7,14 +7,14 @@
 
 
 **Some Key Steps:- **
-1. Loaded Files from Excel Worksheet, Excel CSV
-Distinct v/s Unique
-Data Set : 1 2 3 3 4 4
-Distinct Value : 4
-Unique Value : 2
+1. Loaded Files from Excel Worksheet, Excel CSV  
+Distinct v/s Unique  
+Data Set : 1 2 3 3 4 4  
+Distinct Value : 4  
+Unique Value : 2  
 
-2. Power Query : Transform Data are done in Power Query.
--All trasformation data are recorded in APPLIED STEPS section like remove add column & rows etc.
+2. Power Query : Transform Data are done in Power Query.  
+- All trasformation data are recorded in APPLIED STEPS section like remove add column & rows etc.
 - M Code : Whatever the changes made on data, those action are done by M code Language in Backend.
 
 3. Create MasterDate Table with Date Format
@@ -29,7 +29,7 @@ Mark As Date Table = Date
 - Snowflake schema : Dimension tables may or maybe indirectly connected to the main Fact table through another Dimension table.
 - Galaxy Schema or Bridge Schema : Multiple Fact tables and Dimension tables involves.
 
-5. Created Seperate Table for Measure.
+5. Created Seperate Table for Measure.  
 `Total Customers = COUNT(Bank_Churn[CustomerId])`
 `Active Customers = CALCULATE(COUNT(Bank_Churn[IsActiveMember]), ActiveCustomer[ActiveID]=1)`
 `Inactive Customers = CALCULATE(COUNT(Bank_Churn[IsActiveMember]), ActiveCustomer[ActiveID]=0)`
@@ -42,7 +42,7 @@ Mark As Date Table = Date
 
 7. Created Slicer to filter the Visual data by Year, Month, Location, Gender
 
-8. Created Column for Customers with Credit Score remark.
+8. Created Column for Customers with Credit Score remark.  
 `Credit Type = SWITCH(TRUE(), Bank_Churn[CreditScore]>=800 && Bank_Churn[CreditScore]<=850,"Excellent",
 Bank_Churn[CreditScore]>=740 && Bank_Churn[CreditScore]<=799, "Very Good",
 Bank_Churn[CreditScore]>=670 && Bank_Churn[CreditScore]<=739,"Good",
@@ -53,7 +53,7 @@ Bank_Churn[CreditScore]>=300&&Bank_Churn[CreditScore]<=579,"Poor")`
 Active & Inactive members. Year and Month Wise. With some formatting.
 Note : Drill Up, Drill Down Concept.
 
-10. Time Intelligence Functions. How to get previous months Exit customers.New Measure created.
+10. Time Intelligence Functions. How to get previous months Exit customers.New Measure created.  
 `Previous Month Exit Customers = CALCULATE([Exit Customer],PREVIOUSMONTH(DateMaster[Date]))`
 
 11. Line Chart. It shows Month wise Exit Customer and Secondary Y axis as Previous month Exit Customer.
@@ -65,7 +65,7 @@ Note : Drill Up, Drill Down Concept.
 
 Thanks to KSR Datavizon.
 
-[Reference Youtube Video Link](https://www.youtube.com/watch?v=aXNhtcQ4nEU)
+[Reference Youtube Video Click Here](https://www.youtube.com/watch?v=aXNhtcQ4nEU)
 
 
 ![alt text](https://github.com/abhishekmishra8/Power-BI-Project-Bank-Domain/blob/main/Images%20Folder/Power%20Bi%20Report%20Dashboard.JPG)
