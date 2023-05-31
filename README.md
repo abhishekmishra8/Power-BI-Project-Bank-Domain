@@ -6,7 +6,7 @@
 
 Project Report and Dashboard Sreenshot shown below:
 
-<img src="Images Folder/Power Bi Report Dashboard.JPG" width="400" height="250" /> <img src="Images Folder/Power Bi Service Dashboard.JPG" width="400" height="250" />
+<img src="Images Folder/Power Bi Report Dashboard.JPG" width="400" height="250" /> &nbsp;&nbsp; <img src="Images Folder/Power Bi Service Dashboard.JPG" width="400" height="250" />
 
 
 **key Learning are as follow:-**  
