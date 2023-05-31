@@ -31,7 +31,8 @@ Creating Relationship between the tables. Fact Tables & Dimension Tables.
 - One to One Relationship & One to Many Relationship
 - Star Schema : All the Dimension tables are connected to the main Fact table.
 - Snowflake schema : Dimension tables may or maybe indirectly connected to the main Fact table through another Dimension table.
-- Galaxy Schema or Bridge Schema : Multiple Fact tables and Dimension tables involves.
+- Galaxy Schema or Bridge Schema : Multiple Fact tables and Dimension tables involves.  
+<img src="Images Folder/Data Model in Power Pivot.JPG" width="350" height="250" />
 
 5. Created Seperate Table for Measure.  
 `Total Customers = COUNT(Bank_Churn[CustomerId])`
@@ -66,13 +67,62 @@ Note : Drill Up, Drill Down Concept.
 
 13. Bar Chart Exit Customer by Credit Type data.
 
+14. Go to Insert > Q&A > Ask questions like Exit Customer by Category in Pie Chart. It will provide the ready output.
+
+15. Try Smart Narative tool to get summary of any visual reports
+
+16. Create new Measurement to get Churn percentage of customers.
+`Churn % = 
+var EC = [Exit Customer]
+var TC = [Total Customers]
+var ChurnPercentage = DIVIDE(EC,TC)
+return ChurnPercentage`
+
+17. Create Matrix visual table to showcase the Churn percentage report.
+
+18. Create Button to Navigate in next page of dashboard.
+
+19. RLS ( Row Level Security ): 
+-Moedeling -> Manage Roles -> Create 
+-RoleName -> Tables (Geography) -> Add Filters -> Geography Location.
+-After creating RLS you can click View As roles to select the filter.
+
+20. Now in Power BI service create Workspaces.
+-My Work space is for internal purpose only you can see the report.
+-Workspace is to share across larger audience.
+- Give Access to Group Member by Manage access button.
+- Access role Admin, Member, Contributor, Viewer
+
+21. Now Publish the darsboard report from Desktop PowerBI to Power Bi Services
+- Home -> Publish -> Select Workspace -> Submit.
+
+22. Add Members to Security :
+- More option in Dataset -> Security -> People or Group who belong to this role.
+- This is Static RLS. Dataset -> Schedule Refresh ->
+
+23. Refresh the Data : 
+- On Demand Refresh in Desktop Power BI. Home -> Refresh.
+- Schedule Refresh in Power BI Service. Gateways are required if the data is On Premise or in local machine.
+- If the data is in cloud then no need Gateway connection.
+- Install Gateway in PowerBi Service : Settings -> Manage Connections & Gateway -> click to Learn More About. Follow the page instruction.
+- After installation done Add to Gateway and Map to the connection.
+- Now schedule the Refresh with Frequency and Time.
+<img src="Images Folder/Gateway Connection in Power BI Service.png" width="350" height="250" /> &nbsp;&nbsp; <img src="Images Folder/Schedule Refresh in Power BI Service.JPG" width="350" height="250" />
+
+24. Create New Dashboard in Power BI Service and Pin the visuals from Report.
+- Report is ynamic and Dashboard is Static. It is single page data story. We cannot add/Pin Slicers to Dashboard.
+
+25. Subscribe to Dashboard : To send report by email.
+<img src="Images Folder/Subscibe to Dashboard.JPG" width="350" height="250" />
+
+26. Manage Alter/Data Alert : To receive alert email of data change in report.
+
+27. Create App
+<img src="Images Folder/App1 Create App in Power BI Service.JPG" width="350" height="250" /> &nbsp;&nbsp; <img src="Images Folder/App2 Create App Add Content.JPG" width="350" height="250" /> &nbsp;&nbsp; <img src="Images Folder/App3 Power BI App Published.JPG" width="350" height="250" />
+
 
 Thanks to KSR Datavizon.
 
 [Reference Youtube Video Click Here](https://www.youtube.com/watch?v=aXNhtcQ4nEU)  
 
-
-![Dashboard Image](Images Folder/Power Bi Report Dashboard.JPG)  
-
-![Data Model Image](Images Folder/Data Model in Power Pivot.JPG)
 
