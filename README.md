@@ -4,8 +4,15 @@
 
 [Github Page Link](https://abhishekmishra8.github.io/Power-BI-Project-Bank-Domain/)
 
+Project Report and Dashboard Sreenshot shown below:
 
-**Some Key Steps & Learning:-**  
+![Dashboard Image](Images Folder/Power Bi Report Dashboard.JPG | width=100)  
+
+![Data Model Image](Images Folder/Data Model in Power Pivot.JPG =250x250)
+
+
+**key Learning are as follow:-**  
+
 1. Loaded Files from Excel Worksheet, Excel CSV  
 Distinct v/s Unique  
 Data Set : 1 2 3 3 4 4  
