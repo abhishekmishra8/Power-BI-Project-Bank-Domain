@@ -6,7 +6,9 @@
 
 Project Report and Dashboard Sreenshot shown below:
 
-<img src="Images Folder/Power Bi Report Dashboard.JPG" width="250" height="250" />
+<img src="Images Folder/Power Bi Report Dashboard.JPG" width="250" height="250" />  
+  
+  
 <img src="Images Folder/Data Model in Power Pivot.JPG" width="250" height="250" />
 
 
