@@ -6,9 +6,7 @@
 
 Project Report and Dashboard Sreenshot shown below:
 
-![Dashboard Image](Images Folder/Power Bi Report Dashboard.JPG | width=100)  
-
-![Data Model Image](Images Folder/Data Model in Power Pivot.JPG =250x250)
+<img src="Images Folder/Power Bi Report Dashboard.JPG" width="200" height="400" />
 
 
 **key Learning are as follow:-**  
