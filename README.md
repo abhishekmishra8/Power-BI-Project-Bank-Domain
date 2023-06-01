@@ -120,9 +120,9 @@ return ChurnPercentage`
 26. Manage Alter/Data Alert : To receive alert email of data change in report.
 
 27. Create App  
-<img src="Images Folder/App1 Create App in Power BI Service.JPG" width="450" height="350" /> &nbsp;&nbsp; <img src="Images Folder/App2 Create App Add Content.JPG" width="350" height="350" /> &nbsp;&nbsp; <img src="Images Folder/App3 Power BI App Published.JPG" width="450" height="350" />
+<img src="Images Folder/App1 Create App in Power BI Service.JPG" width="450" height="450" /> &nbsp;&nbsp; <img src="Images Folder/App2 Create App Add Content.JPG" width="450" height="450" /> &nbsp;&nbsp; <img src="Images Folder/App3 Power BI App Published.JPG" width="450" height="350" />
 
 
-Thanks to KSR Datavizon.
+Credits :-  Thanks to KSR Datavizon
 
-[Reference Youtube Video Click Here](https://www.youtube.com/watch?v=aXNhtcQ4nEU)  
+[Guided Project Youtube Video Click Here](https://www.youtube.com/watch?v=aXNhtcQ4nEU)  
