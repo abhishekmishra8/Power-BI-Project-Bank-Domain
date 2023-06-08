@@ -1,11 +1,15 @@
 # Data Analytics Project in Microsoft Power BI Using Excel and CSV
 
-[Follow me on LinkedIn](https://www.linkedin.com/in/abhishekmishra3/)
+[Follow me on LinkedIn](https://www.linkedin.com/in/abhishekmishra3/) &nbsp;&nbsp; | &nbsp;&nbsp; [Github Repository Link](https://github.com/abhishekmishra8/Power-BI-Project-Bank-Domain) &nbsp;&nbsp; | &nbsp;&nbsp; [Github Page Link](https://abhishekmishra8.github.io/Power-BI-Project-Bank-Domain/)
 
-[Github Page Link](https://abhishekmishra8.github.io/Power-BI-Project-Bank-Domain/)
+Project Report Video shown below:  
 
-Project Report and Dashboard Sreenshot shown below:
+<video width="660" height="360" controls autoplay muted loop>
+<source src="Images Folder/Video/Power Bi Project Bank Domain.mp4" type="video/mp4">
+click the Github Page Link to see the video
+</video>  
 
+Project Report and Dashboard Sreenshot shown below:  
 <img src="Images Folder/Power Bi Report Dashboard.JPG" width="400" height="250" /> &nbsp;&nbsp; <img src="Images Folder/Power Bi Service Dashboard.JPG" width="400" height="250" />
 
 
