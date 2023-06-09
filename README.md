@@ -1,14 +1,12 @@
 [Follow me on LinkedIn](https://www.linkedin.com/in/abhishekmishra3/) &nbsp;&nbsp; | &nbsp;&nbsp; [Github Repository Link](https://github.com/abhishekmishra8/Power-BI-Project-Bank-Domain) &nbsp;&nbsp; | &nbsp;&nbsp; [Github Page Link](https://abhishekmishra8.github.io/Power-BI-Project-Bank-Domain/)
 
 Project Report Video shown below:  
-
 <video width="450" height="360" controls autoplay muted loop>
 <source src="Images Folder/Video/Power Bi Project Bank Domain.mp4" type="video/mp4">
 click the Github Page Link to see the video
 </video> &nbsp;&nbsp; <iframe title="Power BI Project in Bank Domain" width="450" height="360" src="https://app.powerbi.com/reportEmbed?reportId=d08216fc-de98-478f-a34d-fba58592b419&autoAuth=true&ctid=87a51c5b-158a-4e1c-a2f6-e38f4b519f39" frameborder="0" allowFullScreen="true"></iframe>  
 
 <br> <br>
-
 Project Report and Dashboard Sreenshot shown below:  
 <img src="Images Folder/Power Bi Report Dashboard.JPG" width="400" height="250" /> &nbsp;&nbsp; <img src="Images Folder/Power Bi Service Dashboard.JPG" width="400" height="250" />
 
@@ -130,11 +128,3 @@ return ChurnPercentage`
 Credits :-  Thanks to KSR Datavizon
 
 [Guided Project Youtube Video Click Here](https://www.youtube.com/watch?v=aXNhtcQ4nEU)  
-
-
-<br> <br>
-
-Dashboard is embedded below for Power BI User.
-
-<iframe title="Power BI Project in Bank Domain" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=d08216fc-de98-478f-a34d-fba58592b419&autoAuth=true&ctid=87a51c5b-158a-4e1c-a2f6-e38f4b519f39" frameborder="0" allowFullScreen="true"></iframe>
-
