@@ -4,6 +4,8 @@
 
 Project Report Video shown below:  
 
+<iframe title="Power BI Project in Bank Domain" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=d08216fc-de98-478f-a34d-fba58592b419&autoAuth=true&ctid=87a51c5b-158a-4e1c-a2f6-e38f4b519f39" frameborder="0" allowFullScreen="true"></iframe>
+
 <video width="660" height="360" controls autoplay muted loop>
 <source src="Images Folder/Video/Power Bi Project Bank Domain.mp4" type="video/mp4">
 click the Github Page Link to see the video
