@@ -2,11 +2,12 @@
 
 Project Report Video shown below:  
 
-<iframe title="Power BI Project in Bank Domain" width="450" height="350" src="https://app.powerbi.com/reportEmbed?reportId=d08216fc-de98-478f-a34d-fba58592b419&autoAuth=true&ctid=87a51c5b-158a-4e1c-a2f6-e38f4b519f39" frameborder="0" allowFullScreen="true"></iframe> <video width="450" height="360" controls autoplay muted loop>
+<video width="450" height="360" controls autoplay muted loop>
 <source src="Images Folder/Video/Power Bi Project Bank Domain.mp4" type="video/mp4">
 click the Github Page Link to see the video
-</video>    
+</video> &nbsp;&nbsp; <iframe title="Power BI Project in Bank Domain" width="450" height="360" src="https://app.powerbi.com/reportEmbed?reportId=d08216fc-de98-478f-a34d-fba58592b419&autoAuth=true&ctid=87a51c5b-158a-4e1c-a2f6-e38f4b519f39" frameborder="0" allowFullScreen="true"></iframe>  
 
+<br> <br>
 
 Project Report and Dashboard Sreenshot shown below:  
 <img src="Images Folder/Power Bi Report Dashboard.JPG" width="400" height="250" /> &nbsp;&nbsp; <img src="Images Folder/Power Bi Service Dashboard.JPG" width="400" height="250" />
@@ -125,7 +126,15 @@ return ChurnPercentage`
 27. Create App  
 <img src="Images Folder/App1 Create App in Power BI Service.JPG" width="450" height="450" /> &nbsp;&nbsp; <img src="Images Folder/App2 Create App Add Content.JPG" width="450" height="450" /> &nbsp;&nbsp; <img src="Images Folder/App3 Power BI App Published.JPG" width="450" height="350" />
 
-
+<br> <br>
 Credits :-  Thanks to KSR Datavizon
 
 [Guided Project Youtube Video Click Here](https://www.youtube.com/watch?v=aXNhtcQ4nEU)  
+
+
+<br> <br>
+
+Dashboard is embedded below for Power BI User.
+
+<iframe title="Power BI Project in Bank Domain" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=d08216fc-de98-478f-a34d-fba58592b419&autoAuth=true&ctid=87a51c5b-158a-4e1c-a2f6-e38f4b519f39" frameborder="0" allowFullScreen="true"></iframe>
+
